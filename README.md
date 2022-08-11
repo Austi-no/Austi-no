@@ -63,6 +63,6 @@ with Java and JavaScript. In my spare time, I enjoy watching movies, surfing the
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austi-no&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CurpraCode)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Austi-no)
 
 </div>
