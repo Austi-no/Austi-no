@@ -59,9 +59,11 @@ with Java and JavaScript. In my spare time, I enjoy watching movies, surfing the
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Austi-no&show_icons=true&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=austi-no&show_icons=true&locale=en&layout=compact" alt="austi-no" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austi-no&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=austi-no&show_icons=true&locale=en" alt="austi-no" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=austi-no&" alt="austi-no" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Austi-no)
 
