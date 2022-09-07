@@ -2,7 +2,7 @@
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**Backend Engineer | Frontend Engineer | Software Engineer**
+**Frontend Engineer | Backend Engineer | Software Engineer**
 
 I'm **Benard Augustine Adakole**, a fullstack Software Engineer with over 4 years of experience building innovative
 solutions for globally distributed teams. I currently work as software Engineer, picking projects and building stuffs
