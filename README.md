@@ -61,8 +61,8 @@ with Java and JavaScript. In my spare time, I enjoy watching movies, surfing the
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=austi-no&" alt="austi-no" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinebenard&" alt="augustinebenard" /></p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Austi-no)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=augustinebenard)
 
 </div>
